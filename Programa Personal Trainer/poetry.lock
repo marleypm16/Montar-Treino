@@ -1,0 +1,17 @@
+[[package]]
+name = "pyttk"
+version = "0.3.2"
+description = "Ttk Python wrapper"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "b2cd4ce48aa9afbcd45af0adf8958f43f54bf14b767a56299117198a7ad14e29"
+
+[metadata.files]
+pyttk = [
+    {file = "pyttk-0.3.2.tar.gz", hash = "sha256:5ac911938d0b08280432badc0b46f4dbc37c5567364191a9374a7b654c4f6d02"},
+]
